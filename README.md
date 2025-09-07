@@ -1,1 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" zoomAndPan="magnify" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet" version="1.0"><defs><clipPath id="285799478e"><path d="M 5.136719 5.136719 L 369.863281 5.136719 L 369.863281 369.863281 L 5.136719 369.863281 Z M 5.136719 5.136719 " clip-rule="nonzero"/></clipPath><clipPath id="579abfe6c2"><path d="M 187.5 5.136719 C 86.785156 5.136719 5.136719 86.785156 5.136719 187.5 C 5.136719 288.214844 86.785156 369.863281 187.5 369.863281 C 288.214844 369.863281 369.863281 288.214844 369.863281 187.5 C 369.863281 86.785156 288.214844 5.136719 187.5 5.136719 Z M 187.5 5.136719 " clip-rule="nonzero"/></clipPath><clipPath id="5777373d18"><path d="M 63.199219 63.199219 L 311.449219 63.199219 L 311.449219 311.449219 L 63.199219 311.449219 Z M 63.199219 63.199219 " clip-rule="nonzero"/></clipPath></defs><g clip-path="url(#285799478e)"><g clip-path="url(#579abfe6c2)"><path fill="#ffffff" d="M 5.136719 5.136719 L 369.863281 5.136719 L 369.863281 369.863281 L 5.136719 369.863281 Z M 5.136719 5.136719 " fill-opacity="1" fill-rule="nonzero"/></g></g><g clip-path="url(#5777373d18)"><path fill="#004aad" d="M 141.558594 233.441406 L 141.558594 272.621094 L 180.738281 272.621094 L 180.738281 233.441406 L 236.523438 233.441406 C 246.566406 233.441406 255.316406 229.363281 261.929688 222.800781 C 268.492188 216.238281 272.570312 207.4375 272.570312 197.394531 L 272.570312 138.425781 C 272.570312 128.382812 268.492188 119.632812 261.929688 113.019531 C 255.367188 106.457031 246.566406 102.378906 236.523438 102.378906 L 177.605469 102.378906 C 167.5625 102.378906 158.8125 106.457031 152.199219 113.019531 C 145.585938 119.582031 141.558594 128.382812 141.558594 138.425781 L 141.558594 194.210938 L 63.199219 194.210938 L 63.199219 233.390625 L 141.558594 233.390625 Z M 102.378906 194.261719 L 102.378906 138.425781 C 102.378906 117.742188 110.832031 98.949219 124.304688 85.125 C 138.125 71.652344 156.921875 63.199219 177.605469 63.199219 L 236.523438 63.199219 C 257.207031 63.199219 276 71.652344 289.824219 85.125 C 303.347656 98.949219 311.800781 117.742188 311.800781 138.425781 L 311.800781 197.34375 C 311.800781 218.027344 303.347656 236.820312 289.875 250.644531 C 276.101562 264.117188 257.257812 272.570312 236.574219 272.570312 L 180.738281 272.570312 L 180.738281 311.800781 L 141.558594 311.800781 L 141.558594 272.621094 L 102.378906 272.621094 Z M 219.023438 141.558594 L 195.207031 141.558594 C 191.425781 141.558594 187.699219 143.148438 185.164062 145.933594 C 182.328125 148.417969 180.785156 152.199219 180.785156 155.976562 L 180.785156 194.210938 L 219.023438 194.210938 C 222.800781 194.210938 226.53125 192.621094 229.066406 189.835938 C 231.898438 187.351562 233.441406 183.570312 233.441406 179.792969 L 233.441406 155.976562 C 233.441406 152.199219 231.851562 148.46875 229.066406 145.933594 C 226.53125 143.148438 222.75 141.558594 219.023438 141.558594 Z M 219.023438 141.558594 " fill-opacity="1" fill-rule="nonzero"/></g></svg>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100000&color=1a8cc9&center=true&vCenter=true&width=800&lines=JobQuest" alt="Typing Animation" />
+</h1>
+<p align="center">
+  <b>Your Gateway to Smarter Job Hunting & Recruitment</b><br>
+  <a href="https://job-quest-eight.vercel.app/">Live Demo</a> |
+  <a href="https://jobquest-backend.onrender.com/">Backend API</a>
+</p>
+
+## ✨ Overview
+
+**JobQuest** is a full-featured job portal built with the MERN stack. It enables job seekers to search and apply for jobs, while recruiters can post and manage job listings — all through a clean, responsive UI and secure authentication. JobQuest aims to streamline the recruitment process and connect talent with opportunity efficiently.
+
+## 🚀 Quick Links
+
+- 🖥️ <b>Live Demo:</b> [job-quest-eight.vercel.app](https://job-quest-eight.vercel.app/)
+- 🛠️ <b>Backend API:</b> [jobquest.onrender.com/](https://jobquest-ifq1.onrender.com/)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB Atlas
+- **Authentication:** JWT, Clerk
+- **Styling:** CSS Modules, Tailwind CSS
+
+
+## 🌟 Features
+
+- **Job Search & Apply:** Explore and filter job listings and apply seamlessly as a job seeker.
+- **Recruiter Dashboard:** Post, edit, and manage job listings efficiently as a recruiter.
+- **User Authentication:** Secure sign-up, login, and role-based profile management.
+- **Application Tracking:** Track applications and get real-time status updates.
+- **Resume Management:** Upload and manage your resume directly from your profile.
+- **Responsive UI:** Enjoy a modern, mobile-friendly, and fast user experience.
+- **Role-based Access:** Separate feature sets and dashboards for seekers and recruiters.
+
+## 📦 Project Structure
+
+```
+JobQuest/
+├── client/    # React, Vite, Tailwind CSS client app (frontend)
+├── server/    # Node.js, Express, MongoDB REST API (backend)
+├── LICENSE
+├── README.md
+└── JobListing.jsx
+```
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Lokesh-reddy18/JobQuest.git
+   cd JobQuest
+   ```
+
+2. **Setup Backend**
+   ```bash
+   cd server
+   npm install
+   npm start
+   ```
+   The backend server runs on [http://localhost:5000](http://localhost:5000) by default.
+
+3. **Setup Frontend**
+   Open a new terminal window/tab:
+   ```bash
+   cd client
+   npm install
+   npm run dev
+   ```
+   The frontend dev server runs on [http://localhost:3000](http://localhost:3000) by default.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center"><i>JobQuest — Find your dream job or top talent with ease!</i></p>
+<p align="center"><b>Made by Kolli Lokesh Reddy</b></p>
